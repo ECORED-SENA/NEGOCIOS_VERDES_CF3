@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         figure.mb-5
           img(src='@/assets/curso/img01.svg')   
