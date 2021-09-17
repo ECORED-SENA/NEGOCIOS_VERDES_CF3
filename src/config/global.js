@@ -279,141 +279,160 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'European Quality Assurance ISO 14006. (2012). Gestión Ambiental de Proceso de Diseño y Desarrollo de Ecodiseño. Obtenido de ',
+      link: 'http://www.eqa.org/productos/',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible (2015) Aprendamos sobre negocios verdes y sostenibles ',
+      link: 'https://youtu.be/rfD-UKuod18',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Módulo 1: ¿Qué son los negocios verdes e inclusivos?',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Plan Nacional de Negocios Verdes. Bogotá D.C.',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Programa Nacional de Biocomercio Sostenible (2014-2024). ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles/negocios-verdes/que-son-los-negocios-verdeshttps://www.minambiente.gov.co/index.php/negocios-verdes-y-sostenibles/negocios-verdes/que-son-los-negocios-verdes',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2010). Política Nacional de Producción y Consumo. Bogotá D.C. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.icesi.edu.co/blogs/pycs/files/2011/09/Pol%C3%ADtica-de-PyCS-FINAL.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Banca de segundo piso',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Instituciones financieras dirigidas por el gobierno para desarrollar algunos sectores de la economía, atender y solucionar problemas de financiamiento regional y fomentar actividades específicas. En Colombia existen tres Finagro, Bancóldex y Findeter. ',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Biocomercio',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de actividades de recolección, producción, procesamiento o comercialización de bienes y servicios derivados de la biodiversidad nativa, bajo criterios de sostenibilidad ambiental, social y económica.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Demanda',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Cantidad de bienes y servicios que son adquiridos por los consumidores.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Desarrollo limpio',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'El Mecanismo de Desarrollo Limpio (MDL) es un mecanismo cooperativo, establecido bajo el protocolo de Kyoto, el cual tiene el potencial de ayudar a los países en desarrollo a alcanzar un desarrollo sostenible mediante la promoción de inversiones ambientalmente amigables por parte de gobiernos o empresas de los países industrializados.',
     },
     {
-      termino: 'Moda',
+      termino: 'Eco-etiquetado',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Son distintivos otorgados por la administración o por otra organización que garantizan el cumplimiento de unos criterios ambientales por parte de un producto.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Ecoproducto',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Aquel producto en el cual, en todas las etapas de su vida, desde el diseño hasta el fin de su vida útil, se han tenido en cuenta los impactos que la materia prima, las fuentes de energía usadas, los procesos involucrados y los usos finales, tienen o pueden tener en el medio ambiente y en la salud de las personas.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Ecoturismo',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es la actividad turística que se desarrolla sin alterar el equilibrio del medio ambiente y evitando los daños a la naturaleza.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Impuesto de renta',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Impuesto que grava la utilidad de las personas, ​ empresas, u otras entidades legales.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Impuesto predial',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Son los impuestos que se tiene que pagar por las viviendas que tiene cada individuo.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Impuesto sobre el Valor Agregado (IVA)',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un impuesto indirecto que grava el consumo doméstico final de productos y servicios producidos tanto en el territorio nacional como en el exterior.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Maderables',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son aquellos productos que provienen del cuerpo de las plantas leñosas, es decir, que tienen un cuerpo elaborado con madera.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Mercado de carbono',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son sistemas de comercio a través de los cuales se pueden vender o adquirir reducciones de emisiones de gases de efecto invernadero (GEI). Se dividen en mercado regulado y mercado voluntario.',
+    },
+    {
+      termino: 'Negocios para la restauración',
+      significado:
+        'Es el desarrollo de procesos de restauración de ecosistemas naturales degradados, a partir de la producción, provisión o transacción de material vegetal, biorremediación, entre otros.',
+    },
+    {
+      termino: 'No maderables',
+      significado:
+        'Son aquellos productos que provienen de otras partes de los bosques que no provienen de la tala. Por ejemplo: semillas, hojas, hongos, fibras, frutos o inclusive, la miel de abeja.',
+    },
+    {
+      termino: 'Oferta',
+      significado:
+        'Cantidad de bienes y servicios que están dispuestos para la venta.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2015). Aprendamos sobre negocios verdes y sostenibles.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/rfD-UKuod18',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). Plan Nacional de Negocios Verdes',
+      tipo: 'Documento PDF',
       descarga: '/downloads/prueba.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). Programa Nacional de Biocomercio Sostenible (2014-2024)',
+      tipo: 'Documento PDF',
       descarga: '/downloads/prueba.pdf',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Pacifico',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Caribe',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Amazona',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Orinoquia',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto:
+        'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Central',
+      tipo: 'Documento PDF',
+      descarga: '/downloads/prueba.pdf',
     },
   ],
   creditos: {
