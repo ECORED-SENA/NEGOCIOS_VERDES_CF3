@@ -68,7 +68,7 @@
       h2 3.3 Ecodiseño
 
     p.mb-4 El ecodiseño es una metodología que tiene en cuenta la afección ambiental de los productos a lo largo de su ciclo de vida (selección y utilización de la materia prima; fabricación; embalaje, transporte y distribución; instalación y mantenimiento; uso; y fin de vida), mediante la integración sistemática de las cuestiones medioambientales desde la etapa más temprana del diseño del producto.
-    p.mb-4 La Norma Internacional ISO 14006, denominada ECODISEÑO, estandariza la gestión ambiental del proceso de desarrollo de cualquier producto o servicio que quiera diseñarse a partir de esta metodología. (European Quality Assurance ISO 14006, 2012)
+    p.mb-4 La Norma Internacional ISO 14006, denominada ECODISEÑO, estandariza la gestión ambiental del proceso de desarrollo de cualquier producto o servicio que quiera diseñarse a partir de esta metodología. (European Quality Assurance ISO 14006, 2012).
     p.mb-5 Las fases del Ecodiseño, a partir de la norma mencionada anteriormente, son las siguientes: 
 
     .row.justify-content-center
@@ -132,7 +132,7 @@
         p.mb-4 En esta herramienta nos detendremos un momento para analizar los diferentes aspectos relevantes de su implementación en los Negocios verdes. El Sello Ambiental Colombiano está regulado mediante la resolución 1555 de 2005, del MADS. En esta se define el ecoetiquetado como un instrumento económico que permite la incorporación de costos ambientales, al establecer criterios que garantizan un mejor desempeño ambiental del producto respecto de aquellos sustitutos. Estos costos, causados por el deterioro ambiental generado por la producción de determinado bien o servicio, de otra manera habrían sido asumidos por la sociedad.
         p.mb-5 Con este instrumento se busca brindar a los consumidores información verificable, precisa y no engañosa sobre los aspectos ambientales de los productos, estimular el mejoramiento ambiental de los procesos productivos y alentar la demanda y el suministro de productos que afecten en menor medida el medio ambiente. Se han creado diez (10) Normas Técnicas Colombianas (NTC) para los productos que se mencionan a continuación:
 
-        table.mb-5
+        table
           tr  
             td.t1-table-th(colspan="3")
               h4.text-center Normas Técnicas Colombianas
@@ -178,7 +178,7 @@
             td.t1-table-td1(colspan="3")
               p NTC 5720
             td.t1-table-td1(colspan="7")
-              p Tableros y celdas para alojar equipos eléctricos y electrónicos de media y baja tensión
+              p Tableros y celdas para alojar equipos eléctricos y electrónicos de media y baja tensión.
           tr  
             td.t1-table-td2(colspan="3")
               p NTC 5757
@@ -194,6 +194,9 @@
               p NTC 5911
             td.t1-table-td2(colspan="7")
               p Artesanías y otros productos del diseño, elaborados en fibras de enea y junco elaborados con tecnología artesanal.
+
+        p.mb-5.text-center Fuente: (Dirección de Asuntos Ambientales , 2013)
+
         p.mb-4 Finalmente, se mencionan algunos sellos ambientales a nivel mundial:     
 
         .row.justify-content-center.t3-div1.p-4.mb-3

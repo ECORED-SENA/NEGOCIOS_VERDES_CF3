@@ -279,43 +279,48 @@ export default {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). Plan Nacional de Negocios Verdes',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Plan_Nacional_de_Negocios_Verdes.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). Programa Nacional de Biocomercio Sostenible (2014-2024)',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Programa_Nacional_Biocomercio_Sostenible.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Pacifico',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga:
+        '/downloads/Programa_Regional_Negocios_Verdes_Region_Pacifico.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Caribe',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga:
+        '/downloads/Programa_Regional_Negocios_Verdes_Region_Caribe.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Amazona',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga:
+        '/downloads/Programa_Regional_Negocios_Verdes_Region_Amazonia_.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Orinoquia',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga:
+        '/downloads/Programa_Regional_Negocios_Verdes_Region_Orinoquia.pdf',
     },
     {
       texto:
         'Ministerio de Ambiente y Desarrollo Sostenible, (2014). “Programa Regional de Negocios Verdes” Región Central',
       tipo: 'Documento PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga:
+        '/downloads/Programa_Regional_Negocios_Verdes_Region_Central.pdf',
     },
   ],
   creditos: {
@@ -331,7 +336,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Kateryn Valderrama Varón',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios - Regional Tolima',
+      },
+      {
+        nombre: 'José Gregorio Ramírez',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio y servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Bogotá',
+      },
+      {
+        nombre: 'Adriana Lozano Zapata',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -342,40 +368,81 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'Anllelo Andres Reina Montañez',
+        cargo: 'Diseño web ',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Laura Gisselle Murcia Pardo',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Edgar Mauricio Cortes García',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María camila Ovalle Ospina ',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

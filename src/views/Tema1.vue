@@ -94,6 +94,8 @@
             div.t1-div8.p-2
               p <b>Colaboración y trabajo conjunto:</b> esta política articula los esfuerzos desarrollados por los diversos actores de la sociedad colombiana hacia una producción y consumo sostenible. La colaboración, trabajo conjunto e inclusión hacia objetivos comunes, constituye un factor de éxito para alcanzar las metas planeadas.
 
+    p.mb-5 Asimismo, el Ministerio de Ambiente, Vivienda y Desarrollo Territorial contempla los objetivos de esta política, los sectores en los cuales se aplica y las estrategias que se llevarán a cabo para lograr el ideal de esta, una producción y consumo sostenibles. 
+
     .row.mb-5
       .col-1.p-0(style="width:37px")
         figure(style="width:37px")
@@ -170,19 +172,21 @@
 
     .row.justify-content-center.mb-5
       .col-10
-        p.mb-5 Las estrategias y líneas de acción enmarcan a cada uno de los actores involucrados en alcanzar el objetivo principal de la Política de Producción y Consumo Sostenible, cambiar los patrones de producción y consumo hacia la sostenibilidad, la cual se desarrolla en torno a ocho (8) ejes estratégicos interconectados, los cuales se observan en la siguiente figura y de los cuales los primeros siete (7) ejes orientan la aplicación de la política hacia sus resultados concretos y el octavo eje estratégico, orienta las acciones instrumentales para la gestión de la misma. 
+        p.mb-5 Las estrategias y líneas de acción enmarcan a cada uno de los actores involucrados en alcanzar el objetivo principal de la Política de Producción y Consumo Sostenible, cambiar los patrones de producción y consumo hacia la sostenibilidad, la cual se desarrolla en torno a ocho (8) <b>ejes estratégicos</b> interconectados, los cuales se observan en la siguiente figura y de los cuales los primeros siete (7) ejes orientan la aplicación de la política hacia sus resultados concretos y el octavo eje estratégico, orienta las acciones instrumentales para la gestión de la misma. 
         figure.px-5
           img(src='@/assets/curso/tema1/img10.svg')
     br
-    p.text-center.mb-5 <b>De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2010),</b>
     
-    .row.justify-content-center.mb-5
-      .col-10
-        .bloque-texto-f.color-acento-botones.pt-4.px-5
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left(style="color:#AEB238")
-            i.fas.fa-quote-right(style="color:#AEB238")
-          p.text-regular.bloque-texto-f__texto a través de sus instrumentos, la estrategia de gestión articula las demás estrategias de aplicación y facilita sus desarrollos.      
+
+    p.mb-5 De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2010), "a través de sus instrumentos, la estrategia de gestión articula las demás estrategias de aplicación y facilita sus desarrollos."      
+    //-  p.text-center.mb-5 <b>De acuerdo con el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2010),</b>
+    //- .row.justify-content-center.mb-5
+    //-   .col-10
+    //-     .bloque-texto-f.color-acento-botones.pt-4.px-5
+    //-       .bloque-texto-f__comillas
+    //-         i.fas.fa-quote-left(style="color:#AEB238")
+    //-         i.fas.fa-quote-right(style="color:#AEB238")
+    //-       p.text-regular.bloque-texto-f__texto  a través de sus instrumentos, la estrategia de gestión articula las demás estrategias de aplicación y facilita sus desarrollos.
 
 
     .row.justify-content-center.mb-5
@@ -191,19 +195,20 @@
           img.t1-img-num(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Diseño de proyectos<br>sostenibles de infraestructura<br>y movilidad: 
-            p.text-center la estrategia se fundamenta en la realización de proyectos a gran escala que generen impactos positivos sobre los indicadores de la calidad ambiental y el desarrollo sostenible, y que sean propuestos bajo la instauración de políticas de Estado. Por ejemplo: proyectos de generación de energía, sistema de transporte público, mejoramiento de la calidad de los combustibles o un plan de desarrollo vial nacional con criterios de sostenibilidad.         
+            p.text-center La estrategia se fundamenta en la realización de proyectos a gran escala que generen impactos positivos sobre los indicadores de la calidad ambiental y el desarrollo sostenible, y que sean propuestos bajo la instauración de políticas de Estado. Por ejemplo: proyectos de generación de energía, sistema de transporte público, mejoramiento de la calidad de los combustibles o un plan de desarrollo vial nacional con criterios de sostenibilidad.         
       .col-4.d-flex.px-4
         .tarjeta-avatar
           img.t1-img-num(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Fortalecimiento de<br>la regulación:<br><br>
-            p.text-center la estrategia se fundamenta en la realización de proyectos a gran escala que generen impactos positivos sobre los indicadores de la calidad ambiental y el desarrollo sostenible, y que sean propuestos bajo la instauración de políticas de Estado. Por ejemplo: proyectos de generación de energía, sistema de transporte público, mejoramiento de la calidad de los combustibles o un plan de desarrollo vial nacional con criterios de sostenibilidad.         
+            p.text-center Mediante la realización de esta estrategia se busca fortalecer el marco regulatorio ambiental y su aplicación, el cual se ajustará de acuerdo con las tendencias ambientales de los mercados globalizados
       .col-4.d-flex.pe-5
         .tarjeta-avatar
           img.t1-img-num(src='@/assets/curso/tema1/img13.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Compras sostenibles<br>de bienes y servicios:<br><br> 
-            p.text-center mediante la realización de esta estrategia se busca fortalecer el marco regulatorio ambiental y su aplicación, el cual se ajustará de acuerdo con las tendencias ambientales de los mercados globalizados.
+            p.text-center Su principal objetivo es repercutir en las decisiones de compra de los productores y consumidores de bienes y servicios, con el fin de lograr que estos actores incluyan criterios de calidad ambiental dentro su decisión de compra y así, innovar en productos y servicios más sostenibles.
+
     
     .row.justify-content-center.mb-5
       .col-4.d-flex.ps-5
@@ -211,19 +216,19 @@
           img.t1-img-num(src='@/assets/curso/tema1/img14.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Fortalecimiento de<br>capacidades e<br>investigación:
-            p.text-center mediante esta estrategia se busca fortalecer y ampliar la capacitación y la investigación en prácticas, tecnologías y negocios sostenibles, como elementos básicos para avanzar en la innovación y la difusión de patrones de producción y consumo sostenibles.
+            p.text-center Mediante esta estrategia se busca fortalecer y ampliar la capacitación y la investigación en prácticas, tecnologías y negocios sostenibles, como elementos básicos para avanzar en la innovación y la difusión de patrones de producción y consumo sostenibles.
       .col-4.d-flex.px-4
         .tarjeta-avatar
           img.t1-img-num(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Generación de cultura<br>de autogestión<br>y autorregulación: 
-            p.text-center mediante la realización de esta estrategia se busca fortalecer el marco regulatorio ambiental y su aplicación, el cual se ajustará de acuerdo con las tendencias ambientales de los mercados globalizados.
+            p.text-center Busca promover una cultura de autogestión y autorregulación mediante la generación y divulgación de información pública en producción y consumo sostenible para la participación ciudadana.  Dicha cultura contribuye al cambio permanente y el mejoramiento continuo hacia una producción y un consumo sostenible.
       .col-4.d-flex.pe-5
         .tarjeta-avatar
           img.t1-img-num(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Encadenamiento de<br>actores hacia la producción<br>y consumo sostenible: 
-            p.text-center retende optimizar el uso de recursos e insumos, el aprovechamiento de residuos, la difusión de buenas prácticas, tecnologías más limpias y, la comercialización de productos sostenibles, a través del encadenamiento de empresas y actores.  
+            p.text-center Pretende optimizar el uso de recursos e insumos, el aprovechamiento de residuos, la difusión de buenas prácticas, tecnologías más limpias y, la comercialización de productos sostenibles, a través del encadenamiento de empresas y actores.  
     
     .row.justify-content-center
       .col-4.d-flex.ps-5
@@ -231,13 +236,13 @@
           img.t1-img-num(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 Emprendimiento<br>de negocios verdes:<br><br><br><br>
-            p.text-center su principal objetivo es promover el emprendimiento de Negocios verdes (productos o servicios con calidades ambientales o aprovechamiento sostenible de la biodiversidad) y el fortalecimiento de los ya existentes.  
+            p.text-center Su principal objetivo es promover el emprendimiento de Negocios verdes (productos o servicios con calidades ambientales o aprovechamiento sostenible de la biodiversidad) y el fortalecimiento de los ya existentes.  
       .col-4.d-flex.px-4
         .tarjeta-avatar
           img.t1-img-num(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')         
           .t1.tarjeta.color-acento-botones.p-4
             h4.text-center.t1-h4 gestión e integración de<br>diferentes actores<br>involucrados en programas<br>y proyectos de  producción<br>y consumo sostenible: 
-            p.text-center el objetivo de esta estrategia de gestión de la política es asegurar la difusión, aplicación, seguimiento, evaluación y ajuste de los objetivos, estrategias y acciones instrumentales.  Este eje para la gestión de la política, facilita la articulación entre las demás estrategias hacia el objetivo común de la Política de Producción y Consumo Sostenible.
+            p.text-center El objetivo de esta estrategia de gestión de la política es asegurar la difusión, aplicación, seguimiento, evaluación y ajuste de los objetivos, estrategias y acciones instrumentales.  Este eje para la gestión de la política, facilita la articulación entre las demás estrategias hacia el objetivo común de la Política de Producción y Consumo Sostenible.
     
     Separador
     #t_1_2.titulo-segundo
@@ -348,8 +353,10 @@
                     i.t1.fas.fa-circle.fa-xs
                     | Reducción y captura de gases efecto invernadero (GEI)
 
+          p.mb-0.text-center Fuente: Plan Estratégico Nacional de Mercados Verdes (2002).
+
           
-      .row.justify-content-center(titulo="Plan Estratégico Nacional de Mercados Verdes (PENMV) - Periodo 2002 - 2012")       
+      .row.justify-content-center(titulo="Política de Producción Más Limpia (PML)")       
         .col-12.px-4
           p.mb-4 La PML fue una estrategia diseñada por el Estado colombiano para promover y enlazar el mejoramiento ambiental y la transformación productiva a la competitividad empresarial. En dicha política se define la producción más limpia como la aplicación continua de una estrategia ambiental preventiva e integrada en los procesos productivos, los productos y los servicios, para reducir los riesgos para los humanos y el ambiente. 
           p.mb-5 El objetivo principal es garantizar la protección ambiental, el crecimiento económico, el bienestar social y la competitividad empresarial, a partir de la introducción de la dimensión ambiental en los sectores productivos, como un desafío de largo plazo.<br><br><br><br><br>
@@ -381,7 +388,7 @@
                     ul.lista-ul--color.ms-3
                       li 
                         i.t1.fas.fa-circle.fa-xs
-                        | Categoría: sistema de negocio. esta categoría va desde la consecución de las materias primas hasta la comercialización del producto final, procesos en los cuales se detectaron las siguientes limitaciones en términos generales: 
+                        p <b>Categoría: sistema de negocio.</b> Esta categoría va desde la consecución de las materias primas hasta la comercialización del producto final, procesos en los cuales se detectaron las siguientes limitaciones en términos generales: 
 
               .row.justify-content-center
                 .col-lg-12.px-0
@@ -445,7 +452,10 @@
                         | La mayoría de los productos finales son la misma materia prima.
                       li 
                         i.t1.fas.fa-circle.fa-xs
-                        | El empaque de la mayoría de los productos verdes no incluye características ambientales. Muy pocos tienen en cuenta la trazabilidad del producto.
+                        | El empaque de la mayoría de los productos verdes no incluye características ambientales. 
+                      li 
+                        i.t1.fas.fa-circle.fa-xs
+                        |  Muy pocos tienen en cuenta la trazabilidad del producto.
 
               .row.justify-content-center.mb-1
                 .col-lg-3.d-flex.px-0.pe-1
@@ -465,13 +475,15 @@
                         | Faltan plataformas de comercialización exclusivas para productos de negocios verdes.
                       li 
                         i.t1.fas.fa-circle.fa-xs
-                        | Existencia de competencia ilegal en la comercialización de especies nativas (fauna, flora)
+                        | Existencia de competencia ilegal en la comercialización de especies nativas (fauna, flora).
                       li 
                         i.t1.fas.fa-circle.fa-xs
                         | En la mayoría de los casos, las líneas de investigación de los Institutos de investigación están desligadas de las necesidades identificadas en los estudios de mercado.
                       li 
                         i.t1.fas.fa-circle.fa-xs
                         | Existencia de paternalismo y dependencia del Estado.
+
+              p.mb-0.text-center Fuente: (Ministerio de Ambiente y Desarrollo Sostenible, 2014)
 
               br
               br
@@ -483,7 +495,7 @@
                     ul.lista-ul--color.ms-3
                       li 
                         i.t1.fas.fa-circle.fa-xs
-                        | Categoría: actividades de soporte.  en esta categoría se encuentran las alianzas entre productores, acceso a recursos financieros, capacidades empresariales, entre otras. Igualmente, en términos generales se detectaron las siguientes limitaciones: 
+                        p <b>Categoría: actividades de soporte.</b>  En esta categoría se encuentran las alianzas entre productores, acceso a recursos financieros, capacidades empresariales, entre otras. Igualmente, en términos generales se detectaron las siguientes limitaciones: 
 
               .row.justify-content-center
                 .col-lg-12.px-0
@@ -538,7 +550,7 @@
                         i.t1.fas.fa-circle.fa-xs
                         | Falta pasar de una cadena productiva a una cadena de valor por producto y no por sector como se viene desarrollando actualmente.
 
-              .row.justify-content-center.mb-5
+              .row.justify-content-center
                 .col-lg-3.d-flex.px-0.pe-1
                   div.d-flex.align-items-center(style="background-color: #E5F1FA; border-radius:10px; width: 100%")
                     h4.ms-4 Conocimientos científicos y tecnológicos
@@ -555,6 +567,9 @@
                         i.t1.fas.fa-circle.fa-xs
                         | Falta generar mayor investigación para desarrollar un mayor valor agregado y calidad a los productos.
 
+              p.mb-5.text-center Fuente:  (Ministerio de Ambiente y Desarrollo Sostenible, 2014)
+
+              
           ul.lista-ul--color.ms-3
             li 
               i.t1.fas.fa-circle.fa-xs
@@ -567,7 +582,7 @@
                   div.px-5.py-2.mb-1(style="background-color: #F3D4AE; border-radius:10px")
                     h4.text-center Limitaciones en la demanda 
 
-              .row.justify-content-center.mb-5
+              .row.justify-content-center
                 .col-lg-3.d-flex.px-0.pe-1
                   div.d-flex.align-items-center(style="background-color: #F1F3AE; border-radius:10px; width: 100%")
                     h4.ms-4 Consumidores          
@@ -589,7 +604,10 @@
                       li 
                         i.t1.fas.fa-circle.fa-xs
                         | El mercado local para estos productos es bastante incipiente, comparativamente con países desarrollados.
-          
+              p.mb-5.text-center Fuente:  (Ministerio de Ambiente y Desarrollo Sostenible, 2014)
+
+
+
           ul.lista-ul--color.ms-3
             li 
               i.t1.fas.fa-circle.fa-xs
@@ -690,12 +708,12 @@
                         | Falta capacitar al recurso humano en investigación, gestión de proyectos, acompañamiento en la formulación de proyectos, buenas prácticas de sostenibilidad, temas empresariales y comercialización.
                       li 
                         i.t1.fas.fa-circle.fa-xs
-                        | Alta rotación de personal y manejo de las CAR por contratistas
+                        | Alta rotación de personal y manejo de las CAR por contratistas.
                       li 
                         i.t1.fas.fa-circle.fa-xs
                         | Falta mayor compromiso y definición de los roles y funciones de las instituciones involucradas o relacionadas con el tema.
 
-              .row.justify-content-center.mb-5
+              .row.justify-content-center
                 .col-lg-3.d-flex.px-0.pe-1
                   div.d-flex.align-items-center(style="background-color: #F1F3AE; border-radius:10px; width: 100%")
                     h4.ms-4 Tecnología e innovación 
@@ -711,11 +729,12 @@
                       li 
                         i.t1.fas.fa-circle.fa-xs
                         | Hacen falta más recursos económicos para investigación en sectores de Negocios verdes y faltan más líneas de investigación básica y aplicada para el desarrollo de productos verdes.
+              p.mb-5.text-center Fuente:  (Ministerio de Ambiente y Desarrollo Sostenible, 2014)
 
           ul.lista-ul--color.ms-3
             li 
               i.t1.fas.fa-circle.fa-xs
-              | Oportunidades para los Negocios verdes en Colombia 
+              p <b>Oportunidades para los Negocios verdes en Colombia</b>
 
           
       
@@ -739,9 +758,9 @@
                         img(src='@/assets/curso/tema1/img22.png')
 
                   .row.justify-content-center
-                    .col-lg-5
+                    .col-lg-5.py-5                  
                       p.mb-4 <b>Tratados de Libre Comercio (TLC):</b>  son acuerdos mediante los cuales dos o más países reglamentan sus relaciones comerciales, con el fin de incrementar los flujos de comercio e inversión y, por esa vía, elevar su nivel de desarrollo económico y social. Actualmente, Colombia con XX TLC firmados con diferentes países y conjunto de países, tales como el TLC Colombia - Estados Unidos o MERCOSUR , que es el Acuerdo de Complementación Económica. Brasil, Argentina, Uruguay, Paraguay. 
-                      p.mb-0 Estos tratados o acuerdos comerciales representan ventajas para los países participantes porque permiten una mayor cantidad de transacciones comerciales entre los países y para el caso colombiano, representan mayores oportunidades de exportación de los productos agroindustriales, textiles, flora, fauna y en cuanto al sector de servicios, el turismo, es el fuerte logrando el aprovechamiento de la extensa riqueza en biodiversidad colombiana. 
+                      p.mb-5 Estos tratados o acuerdos comerciales representan ventajas para los países participantes porque permiten una mayor cantidad de transacciones comerciales entre los países y para el caso colombiano, representan mayores oportunidades de exportación de los productos agroindustriales, textiles, flora, fauna y en cuanto al sector de servicios, el turismo, es el fuerte logrando el aprovechamiento de la extensa riqueza en biodiversidad colombiana. 
                     .col-lg-4
                       figure
                         img(src='@/assets/curso/tema1/img23.png')
@@ -855,7 +874,9 @@
           tr                        
             td.t1-table-td1.p-3
                 p.mb-0 Negocios para la restauración 
-            td.t1-table-td1.p-3      
+            td.t1-table-td1.p-3    
+
+        p.mb-0.text-center Fuente: (Ministerio de Ambiente y Desarrollo Sostenible, 2014)
 
     Separador
     #t_1_4.titulo-segundo
@@ -866,6 +887,7 @@
         figure
           img(src='@/assets/curso/tema1/img25.svg') 
       .col-lg-7
+        p.mb-5 Identificar los bienes y servicios de los Negocios verdes genera una cultura que se identifica con los principios ambientales, sociales y éticos, permitiendo la promoción de nuevos patrones de producción y consumo al momento de producir y consumir un bien o servicio. 
         p.mb-5 Se entiende como criterio una categoría que agrupa atributos o características relacionadas o similares. En este caso, entonces, los criterios señalarán los aspectos del bien o servicio que son fundamentales en el contexto de la sostenibilidad y que permitirán identificar una oferta de bienes y servicios de Negocios verdes que, sin disminuir sus características de calidad, procuran no causar efectos indeseables en el entorno físico y social y generar unos impactos ambientales positivos directos  (Ministerio de Ambiente y Desarrollo Sostenible, 2014).
         p.mb-5 Así mismo, permite al consumidor conocer las características y beneficios de cada uno de los productos, al igual que le permite ejercer su derecho a un consumo responsable, con pleno conocimiento de los recursos utilizados para la elaboración de este, el impacto sobre el medio ambiente y los criterios de clasificación con los cuales cumple. 
         p.mb-0 A continuación se mencionan los doce criterios contemplados para los Negocios verdes en Colombia, que son implementados de forma voluntaria por las empresas que buscan un valor agregado en sus bienes y servicios, considerados como Negocios Verdes y Sostenibles (NVS): 
