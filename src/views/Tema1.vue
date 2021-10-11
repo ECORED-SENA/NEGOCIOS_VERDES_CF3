@@ -104,9 +104,7 @@
         h3.mb-0 Objetivos
 
     .row.justify-content-center
-      .col-10
-        p.mb-5 El Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2010) define los siguientes principios: 
-
+      .col-10       
         div.t1-div9.py-4
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
@@ -173,8 +171,13 @@
     .row.justify-content-center.mb-5
       .col-10
         p.mb-5 Las estrategias y líneas de acción enmarcan a cada uno de los actores involucrados en alcanzar el objetivo principal de la Política de Producción y Consumo Sostenible, cambiar los patrones de producción y consumo hacia la sostenibilidad, la cual se desarrolla en torno a ocho (8) <b>ejes estratégicos</b> interconectados, los cuales se observan en la siguiente figura y de los cuales los primeros siete (7) ejes orientan la aplicación de la política hacia sus resultados concretos y el octavo eje estratégico, orienta las acciones instrumentales para la gestión de la misma. 
+        div.mb-2.BorTit
+          p.mb-0 <b>Figura</b>
+          p.mb-0 Ejes estratégicos de la Política de Producción y Consumo Sostenible.
+
         figure.px-5
           img(src='@/assets/curso/tema1/img10.svg')
+        figcaption Fuente: (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2010)
     br
     
 
